@@ -1,6 +1,6 @@
 {
-  "name": "Metaplex NFT Marketplace",
-  "short_name": "Metaplex NFT Marketplace",
+  "short_name": "Token Items",
+  "name": "Token Items Marketplace",
   "display": "standalone",
   "start_url": "./",
   "theme_color": "#002140",

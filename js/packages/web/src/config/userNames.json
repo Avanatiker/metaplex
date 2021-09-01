@@ -28,5 +28,11 @@
     "image": "https://pbs.twimg.com/profile_images/1299400345144049665/sPxnVXa7_400x400.jpg",
     "description": "Account used by Solana to mint official NFTs.",
     "background": ""
+  },
+  "5LHZWrdaMNp27Qk1NNQprk2gyvSNPMpw9oC14JXug2Gi": {
+    "name": "Token Items",
+    "image": "https://pbs.twimg.com/profile_images/1299400345144049665/sPxnVXa7_400x400.jpg",
+    "description": "Official minting account of token-items.com",
+    "background": ""
   }
 }
